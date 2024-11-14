@@ -1,0 +1,18 @@
+body{
+    background-color: grey;
+}
+
+label{
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}
+
+input{
+    background-color: black;
+    color:green;
+}
+
+input[placeholder]{
+    color:green;
+}
