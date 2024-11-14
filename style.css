@@ -9,10 +9,7 @@ label{
 }
 
 input{
-    background-color: black;
-    color:green;
+    background-color: white;
+    color:black;
 }
 
-input[placeholder]{
-    color:green;
-}
